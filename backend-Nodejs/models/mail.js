@@ -5,7 +5,7 @@ class Mail {
             service: 'gmail',
             auth: {
                 user: 'patilsagar7979@gmail.com',
-                pass: 'gmail-two step -account-app password'
+                pass: 'email- 2 step verification-app password then generate password'
             }
         });
     
