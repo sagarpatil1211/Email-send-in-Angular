@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6425638e72797fde3469c755"
+  },
+  "name": "marathamatrimony",
+  "ownername": "Vivek Sutar",
+  "address": "kolhapur",
+  "townid": "1",
+  "tagline": "aaaaaa",
+  "email": "viveksutar26@gmail.com",
+  "mobileno": "777777",
+  "password": "vivek@123",
+  "website": "aaaaaaa",
+  "accountopeningdate": {
+    "$date": "2023-03-15T00:00:00.000Z"
+  },
+  "accountexpdate": {
+    "$date": "2023-04-27T00:00:00.000Z"
+  },
+  "status": true,
+  "logopath": "logo/f39mq.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642565f872797fde3469c77c"
+  },
+  "name": "rajmatrimony",
+  "ownername": "Rajkumar Sathe",
+  "address": "kolhapur",
+  "townid": "1",
+  "tagline": "aaaaaa",
+  "email": "satheraj1400@gmail.com",
+  "mobileno": "8177879556",
+  "password": "1212",
+  "website": "aaaaaa",
+  "accountopeningdate": {
+    "$date": "2023-03-30T00:00:00.000Z"
+  },
+  "accountexpdate": {
+    "$date": "2023-04-30T00:00:00.000Z"
+  },
+  "status": true,
+  "logopath": "logo/32ocj.png",
+  "__v": 0
+}]
